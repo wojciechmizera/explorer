@@ -1,0 +1,13 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+.main-title{
+    font-size: 7em;
+    letter-spacing: 5px;
+    text-align: center;
+    margin: 50px;
+}

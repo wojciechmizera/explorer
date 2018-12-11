@@ -8,3 +8,6 @@ obj/
 
 # zbudowane pliki
 bin/
+
+# jakies tam pliki u¿ytkownika
+*.user
