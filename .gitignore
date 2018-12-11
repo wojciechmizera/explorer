@@ -1,0 +1,10 @@
+
+# pliki Visual Studio
+.vs/
+
+# pliki obj
+obj/
+
+
+# zbudowane pliki
+bin/
